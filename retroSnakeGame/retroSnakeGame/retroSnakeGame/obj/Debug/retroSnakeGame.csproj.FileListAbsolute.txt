@@ -1,0 +1,7 @@
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\bin\Debug\retroSnakeGame.exe.config
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\bin\Debug\retroSnakeGame.exe
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\bin\Debug\retroSnakeGame.pdb
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\obj\Debug\retroSnakeGame.csproj.AssemblyReference.cache
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\obj\Debug\retroSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\obj\Debug\retroSnakeGame.exe
+C:\Users\nenez\OneDrive\Desktop\retroSnakeGame\retroSnakeGame\obj\Debug\retroSnakeGame.pdb

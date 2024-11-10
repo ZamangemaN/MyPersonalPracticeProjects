@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE847C-89AA-4E20-8C2C-B9D7EB8C6770}|retroSnakeGame\\retroSnakeGame.csproj|c:\\users\\nenez\\onedrive\\desktop\\retrosnakegame\\retrosnakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE847C-89AA-4E20-8C2C-B9D7EB8C6770}|retroSnakeGame\\retroSnakeGame.csproj|solutionrelative:retrosnakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE847C-89AA-4E20-8C2C-B9D7EB8C6770}|retroSnakeGame\\retroSnakeGame.csproj|c:\\users\\nenez\\onedrive\\desktop\\retrosnakegame\\retrosnakegame\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE847C-89AA-4E20-8C2C-B9D7EB8C6770}|retroSnakeGame\\retroSnakeGame.csproj|solutionrelative:retrosnakegame\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE847C-89AA-4E20-8C2C-B9D7EB8C6770}|retroSnakeGame\\retroSnakeGame.csproj|c:\\users\\nenez\\onedrive\\desktop\\retrosnakegame\\retrosnakegame\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE847C-89AA-4E20-8C2C-B9D7EB8C6770}|retroSnakeGame\\retroSnakeGame.csproj|solutionrelative:retrosnakegame\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\retroSnakeGame\\Direction.cs",
+              "RelativeDocumentMoniker": "retroSnakeGame\\Direction.cs",
+              "ToolTip": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\retroSnakeGame\\Direction.cs",
+              "RelativeToolTip": "retroSnakeGame\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:38:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coord.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\retroSnakeGame\\Coord.cs",
+              "RelativeDocumentMoniker": "retroSnakeGame\\Coord.cs",
+              "ToolTip": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\retroSnakeGame\\Coord.cs",
+              "RelativeToolTip": "retroSnakeGame\\Coord.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:45:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\retroSnakeGame\\Program.cs",
+              "RelativeDocumentMoniker": "retroSnakeGame\\Program.cs",
+              "ToolTip": "C:\\Users\\nenez\\OneDrive\\Desktop\\retroSnakeGame\\retroSnakeGame\\Program.cs",
+              "RelativeToolTip": "retroSnakeGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:43:43.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
