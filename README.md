@@ -18,6 +18,6 @@ Duration (Time it took to complete): 2 weeks.
 WEATHER APP - guided project by GreatStack (Youtuber) found @ https://www.youtube.com/watch?v=MIYQR-Ybrn4&t=5s 
 
 Project description: The weather app lets the user enter city and gives them a real time weather report for that city.
-Duration (Time it took to complete): 1 weeks
+Duration (Time it took to complete): 1 week
 
 
