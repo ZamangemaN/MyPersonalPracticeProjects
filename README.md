@@ -6,7 +6,7 @@ These are the projects I have created this year for practice purposes. Some are 
 CAR_WARNING_LIGHTS - The car tracking app was built from scratch using extensive research which helped to guide me along the way. 
 
 Project description: This app helps users understand what the warning lights mean as they appear on their dashboard and it gives them advise on what to do next
-Duration (Time it took to complete): 1 week.
+Duration (Time it took to complete): 2 weeks.
 
 
 RETRO SNAKE GAME - guided project by The Coders cat (Youtuber) found @ https://www.youtube.com/watch?v=QbEDrLzww5o&t=139s
